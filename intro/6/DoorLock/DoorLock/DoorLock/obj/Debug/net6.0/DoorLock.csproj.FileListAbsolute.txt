@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\obj\Debug\net6.0\DoorLock.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\obj\Debug\net6.0\DoorLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\obj\Debug\net6.0\DoorLock.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\obj\Debug\net6.0\DoorLock.AssemblyInfo.cs
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\obj\Debug\net6.0\DoorLock.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\bin\Debug\net6.0\DoorLock.exe
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\bin\Debug\net6.0\DoorLock.deps.json
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\bin\Debug\net6.0\DoorLock.runtimeconfig.json
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\bin\Debug\net6.0\DoorLock.dll
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\bin\Debug\net6.0\ref\DoorLock.dll
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\bin\Debug\net6.0\DoorLock.pdb
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\obj\Debug\net6.0\DoorLock.dll
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\obj\Debug\net6.0\ref\DoorLock.dll
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\obj\Debug\net6.0\DoorLock.pdb
+C:\Users\user\Desktop\project\intro\6\DoorLock\DoorLock\DoorLock\obj\Debug\net6.0\DoorLock.genruntimeconfig.cache

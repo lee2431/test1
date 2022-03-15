@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\net6.0\LottoNumberGenerator.exe
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\net6.0\LottoNumberGenerator.deps.json
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\net6.0\LottoNumberGenerator.runtimeconfig.json
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\net6.0\LottoNumberGenerator.dll
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\net6.0\ref\LottoNumberGenerator.dll
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\net6.0\LottoNumberGenerator.pdb
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\net6.0\LottoNumberGenerator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\net6.0\LottoNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\net6.0\LottoNumberGenerator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\net6.0\LottoNumberGenerator.AssemblyInfo.cs
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\net6.0\LottoNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\net6.0\LottoNumberGenerator.dll
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\net6.0\ref\LottoNumberGenerator.dll
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\net6.0\LottoNumberGenerator.pdb
+C:\Users\user\Desktop\project\intro\10\rotto\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\net6.0\LottoNumberGenerator.genruntimeconfig.cache

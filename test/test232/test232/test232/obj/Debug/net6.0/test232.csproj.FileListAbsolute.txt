@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\project\test\test232\test232\test232\obj\Debug\net6.0\test232.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\test\test232\test232\test232\obj\Debug\net6.0\test232.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\test\test232\test232\test232\obj\Debug\net6.0\test232.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\test\test232\test232\test232\obj\Debug\net6.0\test232.AssemblyInfo.cs
+C:\Users\user\Desktop\project\test\test232\test232\test232\obj\Debug\net6.0\test232.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\test\test232\test232\test232\bin\Debug\net6.0\test232.exe
+C:\Users\user\Desktop\project\test\test232\test232\test232\bin\Debug\net6.0\test232.deps.json
+C:\Users\user\Desktop\project\test\test232\test232\test232\bin\Debug\net6.0\test232.runtimeconfig.json
+C:\Users\user\Desktop\project\test\test232\test232\test232\bin\Debug\net6.0\test232.dll
+C:\Users\user\Desktop\project\test\test232\test232\test232\bin\Debug\net6.0\ref\test232.dll
+C:\Users\user\Desktop\project\test\test232\test232\test232\bin\Debug\net6.0\test232.pdb
+C:\Users\user\Desktop\project\test\test232\test232\test232\obj\Debug\net6.0\test232.dll
+C:\Users\user\Desktop\project\test\test232\test232\test232\obj\Debug\net6.0\ref\test232.dll
+C:\Users\user\Desktop\project\test\test232\test232\test232\obj\Debug\net6.0\test232.pdb
+C:\Users\user\Desktop\project\test\test232\test232\test232\obj\Debug\net6.0\test232.genruntimeconfig.cache

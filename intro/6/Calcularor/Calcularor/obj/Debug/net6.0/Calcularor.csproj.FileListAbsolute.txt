@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\bin\Debug\net6.0\Calcularor.exe
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\bin\Debug\net6.0\Calcularor.deps.json
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\bin\Debug\net6.0\Calcularor.runtimeconfig.json
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\bin\Debug\net6.0\Calcularor.dll
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\bin\Debug\net6.0\ref\Calcularor.dll
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\bin\Debug\net6.0\Calcularor.pdb
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\obj\Debug\net6.0\Calcularor.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\obj\Debug\net6.0\Calcularor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\obj\Debug\net6.0\Calcularor.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\obj\Debug\net6.0\Calcularor.AssemblyInfo.cs
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\obj\Debug\net6.0\Calcularor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\obj\Debug\net6.0\Calcularor.dll
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\obj\Debug\net6.0\ref\Calcularor.dll
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\obj\Debug\net6.0\Calcularor.pdb
+C:\Users\user\Desktop\project\intro\6\Calcularor\Calcularor\obj\Debug\net6.0\Calcularor.genruntimeconfig.cache

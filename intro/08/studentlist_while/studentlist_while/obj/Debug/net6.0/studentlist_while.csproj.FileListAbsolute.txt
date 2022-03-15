@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\bin\Debug\net6.0\studentlist_while.exe
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\bin\Debug\net6.0\studentlist_while.deps.json
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\bin\Debug\net6.0\studentlist_while.runtimeconfig.json
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\bin\Debug\net6.0\studentlist_while.dll
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\bin\Debug\net6.0\ref\studentlist_while.dll
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\bin\Debug\net6.0\studentlist_while.pdb
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\obj\Debug\net6.0\studentlist_while.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\obj\Debug\net6.0\studentlist_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\obj\Debug\net6.0\studentlist_while.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\obj\Debug\net6.0\studentlist_while.AssemblyInfo.cs
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\obj\Debug\net6.0\studentlist_while.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\obj\Debug\net6.0\studentlist_while.dll
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\obj\Debug\net6.0\ref\studentlist_while.dll
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\obj\Debug\net6.0\studentlist_while.pdb
+C:\Users\user\Desktop\project\intro\08\studentlist_while\studentlist_while\obj\Debug\net6.0\studentlist_while.genruntimeconfig.cache

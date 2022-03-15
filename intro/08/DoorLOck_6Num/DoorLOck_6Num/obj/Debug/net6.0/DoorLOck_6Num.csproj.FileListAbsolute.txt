@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\bin\Debug\net6.0\DoorLOck_6Num.exe
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\bin\Debug\net6.0\DoorLOck_6Num.deps.json
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\bin\Debug\net6.0\DoorLOck_6Num.runtimeconfig.json
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\bin\Debug\net6.0\DoorLOck_6Num.dll
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\bin\Debug\net6.0\ref\DoorLOck_6Num.dll
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\bin\Debug\net6.0\DoorLOck_6Num.pdb
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\obj\Debug\net6.0\DoorLOck_6Num.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\obj\Debug\net6.0\DoorLOck_6Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\obj\Debug\net6.0\DoorLOck_6Num.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\obj\Debug\net6.0\DoorLOck_6Num.AssemblyInfo.cs
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\obj\Debug\net6.0\DoorLOck_6Num.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\obj\Debug\net6.0\DoorLOck_6Num.dll
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\obj\Debug\net6.0\ref\DoorLOck_6Num.dll
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\obj\Debug\net6.0\DoorLOck_6Num.pdb
+C:\Users\user\Desktop\project\intro\08\DoorLOck_6Num\DoorLOck_6Num\obj\Debug\net6.0\DoorLOck_6Num.genruntimeconfig.cache

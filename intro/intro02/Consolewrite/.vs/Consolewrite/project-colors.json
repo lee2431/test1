@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "66bc40ba-c5c1-4099-89ac-6287c7e22a9c": {
+      "ProjectGuid": "66bc40ba-c5c1-4099-89ac-6287c7e22a9c",
+      "DisplayName": "Consolewrite",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\project\test\test192\test192\test192\obj\Debug\net6.0\test192.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\test\test192\test192\test192\obj\Debug\net6.0\test192.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\test\test192\test192\test192\obj\Debug\net6.0\test192.AssemblyInfo.cs
+C:\Users\user\Desktop\project\test\test192\test192\test192\obj\Debug\net6.0\test192.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\test\test192\test192\test192\bin\Debug\net6.0\test192.exe
+C:\Users\user\Desktop\project\test\test192\test192\test192\bin\Debug\net6.0\test192.deps.json
+C:\Users\user\Desktop\project\test\test192\test192\test192\bin\Debug\net6.0\test192.runtimeconfig.json
+C:\Users\user\Desktop\project\test\test192\test192\test192\bin\Debug\net6.0\test192.dll
+C:\Users\user\Desktop\project\test\test192\test192\test192\bin\Debug\net6.0\ref\test192.dll
+C:\Users\user\Desktop\project\test\test192\test192\test192\bin\Debug\net6.0\test192.pdb
+C:\Users\user\Desktop\project\test\test192\test192\test192\obj\Debug\net6.0\test192.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\test\test192\test192\test192\obj\Debug\net6.0\test192.dll
+C:\Users\user\Desktop\project\test\test192\test192\test192\obj\Debug\net6.0\ref\test192.dll
+C:\Users\user\Desktop\project\test\test192\test192\test192\obj\Debug\net6.0\test192.pdb
+C:\Users\user\Desktop\project\test\test192\test192\test192\obj\Debug\net6.0\test192.genruntimeconfig.cache

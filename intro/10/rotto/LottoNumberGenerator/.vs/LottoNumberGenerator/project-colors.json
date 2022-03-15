@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31e8e4a0-228e-4670-8612-1a6c95a42cb9": {
+      "ProjectGuid": "31e8e4a0-228e-4670-8612-1a6c95a42cb9",
+      "DisplayName": "LottoNumberGenerator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

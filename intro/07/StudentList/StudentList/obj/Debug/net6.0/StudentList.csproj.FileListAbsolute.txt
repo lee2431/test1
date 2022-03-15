@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\obj\Debug\net6.0\StudentList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\obj\Debug\net6.0\StudentList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\obj\Debug\net6.0\StudentList.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\obj\Debug\net6.0\StudentList.AssemblyInfo.cs
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\obj\Debug\net6.0\StudentList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\bin\Debug\net6.0\StudentList.exe
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\bin\Debug\net6.0\StudentList.deps.json
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\bin\Debug\net6.0\StudentList.runtimeconfig.json
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\bin\Debug\net6.0\StudentList.dll
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\bin\Debug\net6.0\ref\StudentList.dll
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\bin\Debug\net6.0\StudentList.pdb
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\obj\Debug\net6.0\StudentList.dll
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\obj\Debug\net6.0\ref\StudentList.dll
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\obj\Debug\net6.0\StudentList.pdb
+C:\Users\user\Desktop\project\intro\07\StudentList\StudentList\obj\Debug\net6.0\StudentList.genruntimeconfig.cache

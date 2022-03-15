@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\bin\Debug\net6.0\Variable.exe
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\bin\Debug\net6.0\Variable.deps.json
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\bin\Debug\net6.0\Variable.runtimeconfig.json
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\bin\Debug\net6.0\Variable.dll
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\bin\Debug\net6.0\ref\Variable.dll
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\bin\Debug\net6.0\Variable.pdb
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\obj\Debug\net6.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\obj\Debug\net6.0\Variable.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\obj\Debug\net6.0\Variable.AssemblyInfo.cs
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\obj\Debug\net6.0\Variable.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\obj\Debug\net6.0\Variable.dll
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\obj\Debug\net6.0\ref\Variable.dll
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\obj\Debug\net6.0\Variable.pdb
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\obj\Debug\net6.0\Variable.genruntimeconfig.cache
+C:\Users\user\Desktop\project\intro\4\Variable\Variable\obj\Debug\net6.0\Variable.csproj.AssemblyReference.cache

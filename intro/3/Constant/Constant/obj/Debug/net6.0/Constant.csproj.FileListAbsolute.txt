@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\obj\Debug\net6.0\Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\obj\Debug\net6.0\Constant.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\obj\Debug\net6.0\Constant.AssemblyInfo.cs
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\obj\Debug\net6.0\Constant.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\bin\Debug\net6.0\Constant.exe
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\bin\Debug\net6.0\Constant.deps.json
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\bin\Debug\net6.0\Constant.runtimeconfig.json
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\bin\Debug\net6.0\Constant.dll
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\bin\Debug\net6.0\ref\Constant.dll
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\bin\Debug\net6.0\Constant.pdb
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\obj\Debug\net6.0\Constant.dll
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\obj\Debug\net6.0\ref\Constant.dll
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\obj\Debug\net6.0\Constant.pdb
+C:\Users\user\Desktop\project\intro\3\Constant\Constant\obj\Debug\net6.0\Constant.genruntimeconfig.cache

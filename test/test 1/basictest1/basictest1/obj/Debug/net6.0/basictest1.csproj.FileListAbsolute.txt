@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\obj\Debug\net6.0\basictest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\obj\Debug\net6.0\basictest1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\obj\Debug\net6.0\basictest1.AssemblyInfo.cs
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\obj\Debug\net6.0\basictest1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\bin\Debug\net6.0\basictest1.exe
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\bin\Debug\net6.0\basictest1.deps.json
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\bin\Debug\net6.0\basictest1.runtimeconfig.json
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\bin\Debug\net6.0\basictest1.dll
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\bin\Debug\net6.0\ref\basictest1.dll
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\bin\Debug\net6.0\basictest1.pdb
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\obj\Debug\net6.0\basictest1.dll
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\obj\Debug\net6.0\ref\basictest1.dll
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\obj\Debug\net6.0\basictest1.pdb
+C:\Users\user\Desktop\project\test 1\basictest1\basictest1\obj\Debug\net6.0\basictest1.genruntimeconfig.cache

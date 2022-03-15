@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\obj\Debug\net6.0\hardtest2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\obj\Debug\net6.0\hardtest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\obj\Debug\net6.0\hardtest2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\obj\Debug\net6.0\hardtest2.AssemblyInfo.cs
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\obj\Debug\net6.0\hardtest2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\bin\Debug\net6.0\hardtest2.exe
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\bin\Debug\net6.0\hardtest2.deps.json
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\bin\Debug\net6.0\hardtest2.runtimeconfig.json
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\bin\Debug\net6.0\hardtest2.dll
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\bin\Debug\net6.0\ref\hardtest2.dll
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\bin\Debug\net6.0\hardtest2.pdb
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\obj\Debug\net6.0\hardtest2.dll
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\obj\Debug\net6.0\ref\hardtest2.dll
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\obj\Debug\net6.0\hardtest2.pdb
+C:\Users\user\Desktop\project\test\hardtest\hardtest\hardtest2\hardtest2\obj\Debug\net6.0\hardtest2.genruntimeconfig.cache

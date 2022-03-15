@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\bin\Debug\net6.0\UltimateBaseBall.exe
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\bin\Debug\net6.0\UltimateBaseBall.deps.json
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\bin\Debug\net6.0\UltimateBaseBall.runtimeconfig.json
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\bin\Debug\net6.0\UltimateBaseBall.dll
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\bin\Debug\net6.0\ref\UltimateBaseBall.dll
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\bin\Debug\net6.0\UltimateBaseBall.pdb
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\obj\Debug\net6.0\UltimateBaseBall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\obj\Debug\net6.0\UltimateBaseBall.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\obj\Debug\net6.0\UltimateBaseBall.AssemblyInfo.cs
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\obj\Debug\net6.0\UltimateBaseBall.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\obj\Debug\net6.0\UltimateBaseBall.dll
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\obj\Debug\net6.0\ref\UltimateBaseBall.dll
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\obj\Debug\net6.0\UltimateBaseBall.pdb
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\obj\Debug\net6.0\UltimateBaseBall.genruntimeconfig.cache
+C:\Users\user\Desktop\project\UltimateBaseball\UltimateBaseBall\UltimateBaseBall\obj\Debug\net6.0\UltimateBaseBall.csproj.AssemblyReference.cache

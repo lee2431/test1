@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\bin\Debug\net6.0\gugudan.exe
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\bin\Debug\net6.0\gugudan.deps.json
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\bin\Debug\net6.0\gugudan.runtimeconfig.json
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\bin\Debug\net6.0\gugudan.dll
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\bin\Debug\net6.0\ref\gugudan.dll
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\bin\Debug\net6.0\gugudan.pdb
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\obj\Debug\net6.0\gugudan.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\obj\Debug\net6.0\gugudan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\obj\Debug\net6.0\gugudan.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\obj\Debug\net6.0\gugudan.AssemblyInfo.cs
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\obj\Debug\net6.0\gugudan.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\obj\Debug\net6.0\gugudan.dll
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\obj\Debug\net6.0\ref\gugudan.dll
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\obj\Debug\net6.0\gugudan.pdb
+C:\Users\user\Desktop\project\intro\09\gugudan\gugudan\obj\Debug\net6.0\gugudan.genruntimeconfig.cache
